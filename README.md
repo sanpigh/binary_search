@@ -1,1 +1,1 @@
-# binary_search for python lists
+# binary_search for python ordered lists
